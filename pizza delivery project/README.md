@@ -1,8 +1,6 @@
-# Project 3
+# pizza delivery Project 
 
-Web Programming with Python and JavaScript
-
-https://www.youtube.com/watch?v=Klf1B8_A6Ko
+Web Programming with Python and JavaScript and bootstrap
 
 This project is a fully funcional food ordering system made in django.
 Beside python I did use bootstrap 4 for better control of all DOMs elements.
